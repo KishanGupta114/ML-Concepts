@@ -18,4 +18,4 @@ We follow the [Contributor Covenant](https://www.contributor-covenant.org/versio
 
 If you have any questions or would like to discuss your contribution before submitting it, please feel free to reach out to the project maintainers at [Team69coders](https://github.com/Team69coders).
 
-Thank you for your interest in contributing to C-Concepts!
+Thank you for your interest in contributing to ML-Concepts!
